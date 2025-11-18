@@ -1,2 +1,1 @@
-def inp(word):
-    print(f"your input is: {word}")
+import pygame
