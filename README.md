@@ -15,3 +15,9 @@ what's in there:
  - human image, animal, etc. It's a JPEG image (there will be an object input, like a multiple choice); if not possible, the user has to input a word
  - planet simulation with real physics if I had even more time(so as a blackhole gets closer to a planet/collides with it, what will happen)
     - If possible/ if there is more time, I would give an effect for planets(possibly a funny one, or maybe no one would laugh).
+
+
+dayfirst
+november 23 2025
+- make a blackhole simulator in the center(4000 particles move in uniform but random, light blend(color matches the light)), the particles will collide in a spherical shape surrounding the blackhole
+- plan ahead: make one straight line bend with a black hole existence after
