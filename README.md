@@ -30,5 +30,9 @@ november 24 2025
 - as for gravitation direction, is Newton's Inverse Square Law (1687)
 A black hole can change size, and you can also move the blackhole, and it won't make a difference; the photon direction still follows Newton and Einstein's curved theory(the blackhole is the mass in space).
 The photon goes around the blackhole due to space bending(its velocity curve due to mass and space isn't a straight line)
-Don't ask why the light is not being sucked(note: photons have no mass and move at the speed of light, since there is no mass, the sucking theory doesn'y apply.)
+Don't ask why the light is not being sucked(note: photons have no mass and move at the speed of light, since there is no mass, the sucking theory doesn't apply.)
 
+third(light bend but more visible, smaller. In object input, I give up, pygame can't handle 3D graphics well so finding another engine like godot or unity(unity is recommended by the professor)).
+november 26 2025
+quit to pygame for this simulator, start learning experience with unity engine, learn concept of how C# operate.
+already start a project in unity engine saved in a folder named blackhole simulator with only a black sphere in the middle, pretty ok for 3d works well like Blender I think. 
