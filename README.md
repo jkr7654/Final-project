@@ -1,5 +1,8 @@
 # Final-project
 blackhole simulator
+
+# Youtube link:
+https://youtu.be/7KHoeRUResM
 purpose:
 - make a blackhole with pygame/Unity engine if possible(Unity is a recommendation from the professor but it's time consuming as its the first time I use it(their natural languages are C# which is a complex version of java which I haven't started yet.))
 - The simulation had to be a graphics simulation
