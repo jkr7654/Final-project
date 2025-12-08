@@ -31,3 +31,8 @@ third(light bend but more visible, smaller. I give up in the end, pygame is so l
 november 26 2025
 quit to pygame for this simulator, start learning experience with unity engine, learn concept of how C# operates.
 already start a project in unity engine saved in a folder named blackhole simulator with only a black sphere in the middle, pretty ok for 3d works well like Blender I think. 
+
+
+https://github.com/jkr7654/Final-Project-Unity-1.git
+
+
