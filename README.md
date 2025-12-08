@@ -18,6 +18,7 @@ what's in there:
  - human image, animal, etc. It's a JPEG image (there will be an object input, like a multiple choice); if not possible, the user has to input a word
  - planet simulation with real physics if I had even more time(so as a blackhole gets closer to a planet/collides with it, what will happen)
     - If possible/ if there is more time, I would give an effect for planets(possibly a funny one, or maybe no one would laugh).
+    - If none are possible, then the Blackhole simulator only is fine as long as it is a blackhole. 
 
 
 dayfirst
